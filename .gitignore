@@ -1,0 +1,1 @@
+*.log\n*.tmp\nnode_modules/\n__pycache__/
